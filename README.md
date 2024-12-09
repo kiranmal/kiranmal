@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Kiran Mal! 
+I'm a developer from India 🇮🇳, living in Delhi (India).
 
-<!--
-**kiranmal/kiranmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quotes that inspire me a lot 
+> "Consistency and Determination that make your work visible." </br>
+> “Live life like you own it.”
+### My Tech Stack 👇
+- Java
+- JavaScript
+- Springboot (beginner)
+- MySql
+- MongoDB
+- React JS | Next JS
+- Node JS
+- Express JS
+-  Java| C| Python 
+- and... yes I use ChatGPT
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me 💭
+LinkedIn    - [kiranmal1](https://www.linkedin.com/in/kiranmal1)
