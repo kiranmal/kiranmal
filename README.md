@@ -19,3 +19,4 @@ I'm a developer from India 🇮🇳, living in Delhi (India).
 
 ### Connect with me 💭
 LinkedIn    - [kiranmal1](https://www.linkedin.com/in/kiranmal1)
+LeetCode    - ![Leetcode Stats](https://leetcard.jacoblin.cool/kiranmalpmvk?ext=heatmap)
